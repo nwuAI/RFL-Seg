@@ -1,5 +1,5 @@
 # RFLSeg
-## Residual Feature Learning for Breast and Thyroid Ultrasound Image segmentation
+## RFL-Seg: Residual Feature Learning for Medical Ultrasound Image Segmentation
 
 * **SAIL (Statistic Analysis And Intelligent Learning) Lab of NWU**
 
