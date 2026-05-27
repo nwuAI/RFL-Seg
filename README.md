@@ -17,7 +17,8 @@ Example images
 We propose **RFLSeg**, a framework that utilizes a generative network to create residual maps that highlight lesion areas and suppress noise in ultrasound images. By integrating a custom CNN with the SAM encoder, the model leverages these residual features to improve prompt quality and achieve more precise segmentation across multiple ultrasound datasets.
 
 <p align="center">
-  <img src="./img/Fig 1.drawio.png" alt="Image">
+  <img src="./img/Fig 1-1.OverView.png" alt="Image">
+  <img src="./img/Fig 1-2.SubNet.png" alt="Image">
 </p>
 
 ## Data Preparation: 
