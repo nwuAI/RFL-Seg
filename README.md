@@ -9,7 +9,7 @@
 Example images
 
 <p align="center">
-  <img src="./img/Fig 2.drawio.png" alt="Image">
+  <img src="./img/Fig 2.drawio.png" alt="Image" width="50%">
 </p>
 
 
